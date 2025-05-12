@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkableid=self.webpackChunkableid||[]).push([[634],{9179:(e,u,a)=>{a.r(u),a.d(u,{default:()=>t});a(6540);var r=a(6347),s=a(4848);function t(){return(0,s.jsx)(r.rd,{to:"/home"})}}}]);
